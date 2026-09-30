@@ -1,0 +1,10 @@
+# los datos reales NO se versionan (contienen RUT y nombres): se suben a mano en cada ejecución
+*.xlsx
+*.xls
+*.csv
+fet-bin/
+fet-mirror/
+fet_run*/
+salida_horarios/
+.ipynb_checkpoints/
+__pycache__/
